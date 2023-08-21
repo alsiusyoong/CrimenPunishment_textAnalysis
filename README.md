@@ -9,3 +9,6 @@ My main goal was to **share my passion for the novel and have something to remem
 Based on the plot, I wanted to see if there was any significance of the frequency of characters being mentioned. I also wanted to visualize the number of words in each chapter, in each part.
 
 ![alt text](https://github.com/alsiusyoong/CrimenPunishment_textAnalysis/blob/main/Crime%20and%20Punishment.PNG)
+
+
+You can learn more about this passion project on my [Notion](https://www.notion.so/aloysiusong/Behind-the-Viz-of-Crime-and-Punishment-165e4f8395a54cccbfc89c03a83a2704?pvs=4).
