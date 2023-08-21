@@ -7,3 +7,5 @@ There are a number of characters in the book. Rodion Raskolnikov, a former law s
 # Visualization
 My main goal was to **share my passion for the novel and have something to remember it by.**
 Based on the plot, I wanted to see if there was any significance of the frequency of characters being mentioned. I also wanted to visualize the number of words in each chapter, in each part.
+
+![alt text](https://github.com/alsiusyoong/CrimenPunishment_textAnalysis/blob/main/Crime%20and%20Punishment.PNG)
